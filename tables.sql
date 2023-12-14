@@ -1,0 +1,1 @@
+insert into departments values (5, "HR")
